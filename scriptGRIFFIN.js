@@ -10,5 +10,5 @@ if (titleGRIFFIN && imgGRIFFINUrl && textGRIFFIN && cardColorGRIFFIN) {
   document.getElementById("cardGRIFFIN").style.backgroundColor =
     cardColorGRIFFIN;
 } else {
-  document.getElementById("imgGRIFFIN").src = "/images/archangel.png";
+  document.getElementById("imgGRIFFIN").src = "./images/archangel.png";
 }

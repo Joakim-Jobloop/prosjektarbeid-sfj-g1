@@ -10,5 +10,5 @@ if (titleKRAKEN && imgKRAKENUrl && textKRAKEN && cardColorKRAKEN) {
   document.getElementById("textKRAKEN").textContent = `"${textKRAKEN}!"`;
   document.getElementById("cardKRAKEN").style.backgroundColor = cardColorKRAKEN;
 } else {
-  document.getElementById("imgKRAKEN").src = "/images/archangel.png";
+  document.getElementById("imgKRAKEN").src = "./images/archangel.png";
 }

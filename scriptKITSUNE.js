@@ -10,5 +10,5 @@ if (titleKITSUNE && imgKITSUNEUrl && textKITSUNE && cardColorKITSUNE) {
   document.getElementById("cardKITSUNE").style.backgroundColor =
     cardColorKITSUNE;
 } else {
-  document.getElementById("imgKITSUNE").src = "/images/archangel.png";
+  document.getElementById("imgKITSUNE").src = "./images/archangel.png";
 }
