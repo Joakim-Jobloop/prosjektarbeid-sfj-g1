@@ -1,7 +1,7 @@
-const titleGRIFFIN = "";
-const imgGRIFFINUrl = "";
-const textGRIFFIN = "";
-const cardColorGRIFFIN = "";
+const titleGRIFFIN = "A bird in the day, but a killer in the night";
+const imgGRIFFINUrl = "./images/griffin2.webp";
+const textGRIFFIN = "A beautiful creature, but dont get spotted";
+const cardColorGRIFFIN = "lightbrown";
 
 if (titleGRIFFIN && imgGRIFFINUrl && textGRIFFIN && cardColorGRIFFIN) {
   document.getElementById("titleGRIFFIN").textContent = titleGRIFFIN;
