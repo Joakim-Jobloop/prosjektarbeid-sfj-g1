@@ -1,7 +1,8 @@
-const titlePHOENIX = "";
-const imgPHOENIXUrl = "";
-const textPHOENIX = "";
-const cardColorPHOENIX = "";
+const titlePHOENIX = "Ares the burner";
+const imgPHOENIXUrl =
+  "https://cdn.pixabay.com/photo/2024/02/23/17/31/ai-generated-8592509_1280.jpg";
+const textPHOENIX = "Im on FIRE!";
+const cardColorPHOENIX = "rgb(43, 38, 38)";
 
 if (titlePHOENIX && imgPHOENIXUrl && textPHOENIX && cardColorPHOENIX) {
   document.getElementById("titlePHOENIX").textContent = titlePHOENIX;
