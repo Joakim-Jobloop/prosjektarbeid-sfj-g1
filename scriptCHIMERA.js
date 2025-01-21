@@ -1,7 +1,7 @@
-const titleCHIMERA = "";
-const imgCHIMERAUrl = "";
-const textCHIMERA = "";
-const cardColorCHIMERA = "";
+const titleCHIMERA = "Family dog from hell";
+const imgCHIMERAUrl = "./images/CHIMERA/Chimera.jpeg";
+const textCHIMERA = "Postman's worst nightmare";
+const cardColorCHIMERA = "blue";
 
 if (titleCHIMERA && imgCHIMERAUrl && textCHIMERA && cardColorCHIMERA) {
   document.getElementById("titleCHIMERA").textContent = titleCHIMERA;
