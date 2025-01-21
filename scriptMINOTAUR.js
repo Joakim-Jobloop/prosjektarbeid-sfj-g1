@@ -10,5 +10,5 @@ if (titleMINOTAUR && imgMINOTAURUrl && textMINOTAUR && cardColorMINOTAUR) {
   document.getElementById("cardMINOTAUR").style.backgroundColor =
     cardColorMINOTAUR;
 } else {
-  document.getElementById("imgMINOTAUR").src = imgMINOTAURUrl;
+  document.getElementById("imgMINOTAUR").src = "/images/archangel.png";
 }

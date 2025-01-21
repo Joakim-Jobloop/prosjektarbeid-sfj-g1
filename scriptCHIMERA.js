@@ -10,5 +10,5 @@ if (titleCHIMERA && imgCHIMERAUrl && textCHIMERA && cardColorCHIMERA) {
   document.getElementById("cardCHIMERA").style.backgroundColor =
     cardColorCHIMERA;
 } else {
-  document.getElementById("imgCHIMERA").src = imgCHIMERAUrl;
+  document.getElementById("imgCHIMERA").src = "/images/archangel.png";
 }

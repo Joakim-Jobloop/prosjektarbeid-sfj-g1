@@ -10,5 +10,5 @@ if (titlePHOENIX && imgPHOENIXUrl && textPHOENIX && cardColorPHOENIX) {
   document.getElementById("cardPHOENIX").style.backgroundColor =
     cardColorPHOENIX;
 } else {
-  document.getElementById("imgPHOENIX").src = imgPHOENIXUrl;
+  document.getElementById("imgPHOENIX").src = "/images/archangel.png";
 }
